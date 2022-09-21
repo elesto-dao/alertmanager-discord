@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/elesto-dao/alertmanager-discord/compare/v1.0.2...v1.1.0) (2022-09-20)
+
+
+### Features
+
+* add health check ([ee9fc1c](https://github.com/elesto-dao/alertmanager-discord/commit/ee9fc1ce478d3a4ad4da89751311ceccaecbd7ae))
+
 ## [1.0.2](https://github.com/elesto-dao/alertmanager-discord/compare/v1.0.1...v1.0.2) (2022-09-09)
 
 
