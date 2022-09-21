@@ -240,7 +240,7 @@ func main() {
 		listenAddress = defaultListenAddress
 	}
 	mux := http.NewServeMux()
-	mux.HandleFunc("/healtz", func(http.ResponseWriter, *http.Request){}).Methods(http.MethodGet)
+	mux.HandleFunc("/healtz", func(http.ResponseWriter, *http.Request) {})
 	mux.HandleFunc("/", d.alertMessage)
 	srv := http.Server{
 		Addr:              ":9094",
