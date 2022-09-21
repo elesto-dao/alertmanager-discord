@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/elesto-dao/alertmanager-discord/compare/v1.1.0...v1.1.1) (2022-09-21)
+
+
+### Bug Fixes
+
+* handlefunc for healtz was not correctly set ([f7c83da](https://github.com/elesto-dao/alertmanager-discord/commit/f7c83da7cdbf7c7a3170300e5a309abd342a7095))
+
 ## [1.1.0](https://github.com/elesto-dao/alertmanager-discord/compare/v1.0.2...v1.1.0) (2022-09-20)
 
 
