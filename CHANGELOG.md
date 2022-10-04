@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/elesto-dao/alertmanager-discord/compare/v1.1.1...v1.1.2) (2022-10-04)
+
+
+### Bug Fixes
+
+* change dockerimage to distroless ([2dee420](https://github.com/elesto-dao/alertmanager-discord/commit/2dee4203226970153e3ff723c2c1cc886bb649e2))
+
 ## [1.1.1](https://github.com/elesto-dao/alertmanager-discord/compare/v1.1.0...v1.1.1) (2022-09-21)
 
 
